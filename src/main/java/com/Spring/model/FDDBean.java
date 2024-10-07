@@ -1,5 +1,8 @@
 package com.Spring.model;
 
+import lombok.Data;
+
+@Data
 public class FDDBean {
 	private int id;
 	private String name;
